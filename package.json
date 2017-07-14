@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "serve": "webpack-dev-server --progress --colors"
+  },
   "dependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
