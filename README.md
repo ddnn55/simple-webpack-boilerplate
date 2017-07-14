@@ -26,4 +26,4 @@ or:
 npm run publish-gh-pages
 ```
 
-Publishes a build to GitHub pages via a `gh-pages` branch. Okay so this boilerplate is getting less simple, but hey you don't have to use the `publish-gh-pages` command and it creates no additional dependencies.
+Publishes a build to GitHub pages via a `gh-pages` branch. Be patient, publishing all the way to the GitHub Pages CDN is asynchronous. Okay so this boilerplate is getting less simple, but hey you don't have to use the `publish-gh-pages` command and it creates no additional dependencies.
