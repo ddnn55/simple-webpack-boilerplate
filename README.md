@@ -20,11 +20,11 @@ Oh and it also supports JSX. Okay, okay, so it's not actually the simplest possi
 ### One command publish to GitHub Pages
 
 Recommended:
-````
+```
 yarn run publish-gh-pages
-````
+```
 or:
-````
+```
 npm run publish-gh-pages
 ```
 
